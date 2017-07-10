@@ -1,0 +1,8 @@
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\bin\Debug\KalvinSquare_Abbyy_Test.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\bin\Debug\KalvinSquare_Abbyy_Test.pdb
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\bin\Debug\KalvinSquare_Abbyy.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\bin\Debug\KalvinSquare_Abbyy.pdb
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\obj\Debug\KalvinSquare_Abbyy_Test.csprojResolveAssemblyReference.cache
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\obj\Debug\KalvinSquare_Abbyy_Test.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy_Test\obj\Debug\KalvinSquare_Abbyy_Test.pdb

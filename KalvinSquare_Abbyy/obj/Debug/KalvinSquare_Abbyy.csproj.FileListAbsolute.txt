@@ -1,0 +1,7 @@
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\bin\Debug\KalvinSquare_Abbyy.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\bin\Debug\KalvinSquare_Abbyy.pdb
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\obj\Debug\KalvinSquare_Abbyy.CurrencyFactor.CurrencyFactorForm.resources
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\obj\Debug\KalvinSquare_Abbyy.VATProdPostingGroup.VATProdPostingGroups.resources
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\obj\Debug\KalvinSquare_Abbyy.csproj.GenerateResource.Cache
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\obj\Debug\KalvinSquare_Abbyy.dll
+C:\Users\muzslaiz\Documents\Visual Studio 2015\Projects\KalvinSquare_Abbyy\KalvinSquare_Abbyy\obj\Debug\KalvinSquare_Abbyy.pdb
